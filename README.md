@@ -25,19 +25,25 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
 **To measure IL**
+![WhatsApp Image 2025-10-24 at 14 12 36_8ca783c5](https://github.com/user-attachments/assets/f561b028-0a75-478d-85ce-0e88bc8a10e5)
 
 
 **To measure RTh or RN**
 
+![WhatsApp Image 2025-10-24 at 14 12 35_6551107a](https://github.com/user-attachments/assets/e04968ca-52ae-4f2c-90ee-5f3062974457)
 
 
 **To measure IN or Isc**
 
- 
+ ![WhatsApp Image 2025-10-24 at 14 12 35_2edf0d50](https://github.com/user-attachments/assets/1a86a401-6f7e-4583-9196-9ca6ab0fbdb9)
+
 **Thevenin’s equivalent circuit**
 
+![WhatsApp Image 2025-10-24 at 14 14 16_0c9d6cc1](https://github.com/user-attachments/assets/f9c341e6-0d52-42e3-a9ae-7072b91d2713)
 
 **Norton’s equivalent circuit**
+![WhatsApp Image 2025-10-24 at 14 12 35_95306a24](https://github.com/user-attachments/assets/f03595a6-4734-4157-a77c-f1d24b42dcb4)
+
 
 
 **PROCEDURE:**
@@ -72,12 +78,14 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **TABULAR COLUMN: 1**
 To measure I L
+![WhatsApp Image 2025-10-24 at 14 22 39_a0d0b687](https://github.com/user-attachments/assets/4c2d611b-b94d-4fae-9233-2ccfb743fe96)
 
 Vi (volts)	IL (amps)
 
 **TABULAR COLUMN:2**
 
 To measure RTh or RN
+![WhatsApp Image 2025-10-24 at 14 22 38_c5e2330c](https://github.com/user-attachments/assets/0aa0fea5-dbeb-4dd4-a353-e1750c242312)
 
 Vi (volts)	RTh (Ω)
 
@@ -85,6 +93,7 @@ Vi (volts)	RTh (Ω)
 **TABULAR COLUMN:3**
 
 To measure IN or Isc
+![WhatsApp Image 2025-10-24 at 14 22 38_59423a82](https://github.com/user-attachments/assets/236945ac-bb4a-4854-8f55-082440f6f6cd)
 
 Vi (volts)	IN (amps)
 	
@@ -97,7 +106,11 @@ Practical value of IL (from tabulation 1) =2.3mA
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
+
+
+ **calculation:**
+![WhatsApp Image 2025-10-24 at 14 22 38_643a7665](https://github.com/user-attachments/assets/af87220f-010e-4031-8395-a2da76ec9617)
+![WhatsApp Image 2025-10-24 at 14 22 37_3c950985](https://github.com/user-attachments/assets/da2b34d7-1bc1-4ac3-ad50-1a38ce38ded3)
 
 
 **RESULT:**
